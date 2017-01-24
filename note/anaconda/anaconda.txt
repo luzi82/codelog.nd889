@@ -1,0 +1,35 @@
+Install
+
+https://www.continuum.io/downloads
+
+enable anaconda
+
+PATH="${HOME}/anaconda3/bin:${PATH}"
+
+env
+
+create env:
+conda create -n env_name [list of packages]
+
+enter env:
+source activate aind
+
+leave env:
+source deactivate
+
+export env:
+conda env export > environment.yaml
+
+import env:
+conda env create -f environment.yaml
+
+list env:
+conda env list
+
+remove env:
+conda env remove -n env_name
+
+package
+
+install:
+conda install package_name
