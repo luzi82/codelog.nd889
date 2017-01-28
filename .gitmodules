@@ -1,3 +1,6 @@
 [submodule "Lesson03/project/AIND-Sudoku"]
 	path = Lesson03/project/AIND-Sudoku
 	url = git@github.com:luzi82/AIND-Sudoku.git
+[submodule "Lesson06/project/artificial-intelligence"]
+	path = Lesson06/project/artificial-intelligence
+	url = git@github.com:luzi82/artificial-intelligence.git
