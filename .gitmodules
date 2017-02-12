@@ -4,3 +4,6 @@
 [submodule "Lesson06/project/AIND-Isolation"]
 	path = Lesson06/project/AIND-Isolation
 	url = git@github.com:luzi82/AIND-Isolation.git
+[submodule "Lesson11/project/AIND-Planning"]
+	path = Lesson11/project/AIND-Planning
+	url = git@github.com:luzi82/AIND-Planning.git
