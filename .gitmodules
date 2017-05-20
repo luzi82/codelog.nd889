@@ -1,12 +1,12 @@
-[submodule "Lesson03/project/AIND-Sudoku"]
-	path = Lesson03/project/AIND-Sudoku
+[submodule "Term01/Lesson03/project/AIND-Sudoku"]
+	path = Term01/Lesson03/project/AIND-Sudoku
 	url = git@github.com:luzi82/AIND-Sudoku.git
-[submodule "Lesson06/project/AIND-Isolation"]
-	path = Lesson06/project/AIND-Isolation
+[submodule "Term01/Lesson06/project/AIND-Isolation"]
+	path = Term01/Lesson06/project/AIND-Isolation
 	url = git@github.com:luzi82/AIND-Isolation.git
-[submodule "Lesson11/project/AIND-Planning"]
-	path = Lesson11/project/AIND-Planning
+[submodule "Term01/Lesson11/project/AIND-Planning"]
+	path = Term01/Lesson11/project/AIND-Planning
 	url = git@github.com:luzi82/AIND-Planning.git
-[submodule "Lesson15/project/AIND-Recognizer"]
-	path = Lesson15/project/AIND-Recognizer
+[submodule "Term01/Lesson15/project/AIND-Recognizer"]
+	path = Term01/Lesson15/project/AIND-Recognizer
 	url = git@github.com:luzi82/AIND-Recognizer.git
