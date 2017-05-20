@@ -10,3 +10,6 @@
 [submodule "Term01/Lesson15/project/AIND-Recognizer"]
 	path = Term01/Lesson15/project/AIND-Recognizer
 	url = git@github.com:luzi82/AIND-Recognizer.git
+[submodule "Term02/Lesson02/31/aind2-dl"]
+	path = Term02/Lesson02/31/aind2-dl
+	url = git@github.com:luzi82/aind2-dl.git
