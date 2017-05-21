@@ -13,3 +13,6 @@
 [submodule "Term02/Lesson02/31/aind2-dl"]
 	path = Term02/Lesson02/31/aind2-dl
 	url = git@github.com:luzi82/aind2-dl.git
+[submodule "Term02/Lesson02/48/aind2-dl"]
+	path = Term02/Lesson02/48/aind2-dl
+	url = git@github.com:luzi82/aind2-dl.git
