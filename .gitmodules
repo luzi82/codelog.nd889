@@ -19,3 +19,6 @@
 [submodule "Term02/Lesson03/09/aind2-cnn"]
 	path = Term02/Lesson03/09/aind2-cnn
 	url = git@github.com:luzi82/aind2-cnn.git
+[submodule "Term02/Lesson03/project/dog-project"]
+	path = Term02/Lesson03/project/dog-project
+	url = git@github.com:luzi82/dog-project.git
