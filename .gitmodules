@@ -25,6 +25,6 @@
 [submodule "Term02/Lesson04/project/aind2-rnn"]
 	path = Term02/Lesson04/project/aind2-rnn
 	url = git@github.com:luzi82/aind2-rnn.git
-[submodule "Term05/06/AIND-VUI-Alexa"]
-	path = Term05/06/AIND-VUI-Alexa
+[submodule "Term05/Lesson06/project/AIND-VUI-Alexa"]
+	path = Term05/Lesson06/project/AIND-VUI-Alexa
 	url = git@github.com:luzi82/AIND-VUI-Alexa.git
