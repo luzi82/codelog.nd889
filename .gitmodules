@@ -28,3 +28,6 @@
 [submodule "Term05/Lesson06/project/AIND-VUI-Alexa"]
 	path = Term05/Lesson06/project/AIND-VUI-Alexa
 	url = git@github.com:luzi82/AIND-VUI-Alexa.git
+[submodule "Term05/Lesson07/13/AIND-VUI-Lab-Voice-Data"]
+	path = Term05/Lesson07/13/AIND-VUI-Lab-Voice-Data
+	url = git@github.com:luzi82/AIND-VUI-Lab-Voice-Data.git
