@@ -31,3 +31,6 @@
 [submodule "Term05/Lesson07/13/AIND-VUI-Lab-Voice-Data"]
 	path = Term05/Lesson07/13/AIND-VUI-Lab-Voice-Data
 	url = git@github.com:luzi82/AIND-VUI-Lab-Voice-Data.git
+[submodule "Term05/Lesson08/project/AIND-VUI-Capstone"]
+	path = Term05/Lesson08/project/AIND-VUI-Capstone
+	url = git@github.com:luzi82/AIND-VUI-Capstone.git
